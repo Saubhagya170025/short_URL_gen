@@ -16,3 +16,5 @@ A simple yet powerful URL shortening service that transforms long, cumbersome li
 1. Node.js with Express for the backend.
 2. MongoDB with Mongoose for URL storage and management.
 3. Optional analytics tracking with integration capabilities.
+
+This project features the backend of the service that can be efficiently tested on POSTMAN.
